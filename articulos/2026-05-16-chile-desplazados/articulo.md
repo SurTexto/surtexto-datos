@@ -118,4 +118,4 @@ Los 1,5 millones de evacuados por el tsunami volvieron a casa al día siguiente.
 
 ---
 
-*Fuente: Cables Agencia EFE procesados por SurTexto, IDMC Global Report 2025, World Bank Open Data. Todos los datos y visualizaciones disponibles en [github.com/crishernandezmaps/surtexto-datos](https://github.com/crishernandezmaps/surtexto-datos).*
+*Fuente: Cables Agencia EFE procesados por SurTexto, IDMC Global Report 2025, World Bank Open Data. Todos los datos y visualizaciones disponibles en [github.com/SurTexto/surtexto-datos](https://github.com/SurTexto/surtexto-datos).*

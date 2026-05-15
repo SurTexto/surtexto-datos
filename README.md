@@ -31,7 +31,7 @@ Usamos inteligencia artificial para curar y filtrar cientos de cables de agencia
 **Cristian Hernández Milla** — Fundador y editor. Geógrafo y desarrollador especializado en visualización de datos y sistemas de información geográfica. Trabaja en la intersección entre datos, tecnología y narrativa editorial.
 
 - Web: [surtexto.com](https://surtexto.com)
-- GitHub: [@crishernandezmaps](https://github.com/crishernandezmaps)
+- GitHub: [@SurTexto](https://github.com/SurTexto)
 
 ---
 
