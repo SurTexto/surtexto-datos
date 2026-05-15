@@ -1,9 +1,9 @@
 # México: diez mujeres al día, cero sentencias al año
 
-**País:** México  
-**Categoría:** Política · Sociedad  
-**Fecha:** 16 de mayo de 2026  
-**Autor:** SurTexto  
+**País:** México
+**Categoría:** Política · Sociedad
+**Fecha:** 16 de mayo de 2026
+**Autor:** SurTexto
 **URL:** https://surtexto.com/ediciones/mexico-violencia-politica
 
 ## Resumen
@@ -21,7 +21,7 @@
 ## Visualizaciones
 
 1. **Calendario interactivo** — Slider de 31 días que acumula mujeres asesinadas (10/día) y desaparecidas (80/día)
-2. **Línea temporal feminicidios** — Serie 2015-2025 con hitos narrativos y animación de goteo desde los puntos de datos
+2. **Línea temporal feminicidios** — Serie 2015-2025 con hitos narrativos y animación de gotas de sangre desde los puntos de datos
 3. **Área acumulada desaparecidos** — 132.534 con siluetas de mujeres cubiertas por el área (animación sweep)
 4. **Tres mujeres, una semana** — Timeline de Lucía, María Elena y Fátima
 5. **La fosa de la impunidad** — Corte geológico: estratos proporcionales con cuerpos en la zona oscura

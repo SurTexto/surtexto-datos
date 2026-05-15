@@ -1,4 +1,4 @@
-# Fuentes — Chile: entre el éxodo y la zanja
+# Fuentes — Chile: 66 años aprendiendo a desplazar, 16 improvisando la migración
 
 Todos los datos utilizados en este artículo, con su fuente primaria y método de verificación.
 
